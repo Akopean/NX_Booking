@@ -1,0 +1,7 @@
+# Add files here to ignore them from prettier formatting
+/dist
+/coverage
+
+libs/web/data-access-graphql/src/lib/data-access.gql.gen.ts
+libs/web/data-access-graphql/src/lib/types.ts
+libs/web/generated-db-types/src/index.ts

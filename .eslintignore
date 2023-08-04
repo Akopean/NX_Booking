@@ -1,0 +1,6 @@
+node_modules
+
+
+libs/web/data-access-graphql/src/lib/data-access.gql.gen.ts
+libs/web/data-access-graphql/src/lib/types.ts
+libs/web/generated-db-types/src/index.ts
